@@ -30,7 +30,7 @@ Before running the script, ensure you have the following installed:
 
 1. **Clone the Repository**:
     ```bash
-    git clone (https://github.com/Rahulrockss/Automation-Test-01-UI-Testing.git)
+    git clone https://github.com/Rahulrockss/Automation-Test-01-UI-Testing.git
     cd your-repo-name
     ```
 
